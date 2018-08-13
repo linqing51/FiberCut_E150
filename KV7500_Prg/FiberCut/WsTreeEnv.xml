@@ -12,19 +12,19 @@
 					<Child>
 						<value.first>EtherNet/IP   R30000  DM10000</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>[1]  CV-X100 Series</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[10] KV-AM40V    R57000  DM10700</value.first>
-				<value.second>
-					<Expanded>0</Expanded>
-				</value.second>
-			</Child>
-			<Child>
-				<value.first>[1]  KV-XH16ML   R34000  DM10300</value.first>
+				<value.first>[1]  KV-XH16ML   R38000  DM10300</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 					<Child>
@@ -48,7 +48,7 @@
 					<Child>
 						<value.first>同步控制设定</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>凸轮设定</value.first>
 								<value.second>
@@ -65,6 +65,66 @@
 								<value.first>同步参数</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
+									<Child>
+										<value.first>轴10:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴1:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴2:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴3:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴4:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴5:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴6:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴7:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴8:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>轴9:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -102,67 +162,73 @@
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[2]  KV-SSC02    R48000  DM10400</value.first>
+				<value.first>[2]  KV-SSC02    R52000  DM10400 [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[3]  KV-SH04PL   R49000  DM10500</value.first>
+				<value.first>[3]  KV-XL202    R53000  DM10500 [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
+					<Child>
+						<value.first>PROTOCOL STUDIO</value.first>
+						<value.second>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>[1] MD-X1000/1500</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>单元程序</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
 					<Child>
 						<value.first>单元通用设定</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
-					<Child>
-						<value.first>点参数</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>轴控制设定</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[4]  KV-SSC02    R51000  DM10600</value.first>
+				<value.first>[4]  KV-B16T*    R55000  ----- [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[5]  KV-B16T*    R52000  -----</value.first>
+				<value.first>[5]  KV-B16T*    R56000  ----- [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[6]  KV-B16T*    R53000  -----</value.first>
+				<value.first>[6]  KV-B16T*    R57000  ----- [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[7]  KV-B16X*    R54000  -----</value.first>
+				<value.first>[7]  KV-B16X*    R58000  ----- [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[8]  KV-B16X*    R55000  -----</value.first>
+				<value.first>[8]  KV-B16X*    R59000  ----- [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[9]  KV-B8RC     R56000  -----</value.first>
+				<value.first>[9]  KV-B16X*    R60000  ----- [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
