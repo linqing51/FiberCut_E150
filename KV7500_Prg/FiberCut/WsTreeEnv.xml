@@ -26,7 +26,7 @@
 			<Child>
 				<value.first>[1]  KV-XH16ML   R38000  DM10300</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>SV2 设定</value.first>
 						<value.second>
@@ -36,7 +36,43 @@
 					<Child>
 						<value.first>单元程序</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>0:定位载板工作位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>1:定位载板上料位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>2:定位下相机工作位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>3:定位下相机安全位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>4:定位右相机工作位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>5:定位右相机安全位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
@@ -48,7 +84,7 @@
 					<Child>
 						<value.first>同步控制设定</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>凸轮设定</value.first>
 								<value.second>
@@ -66,61 +102,61 @@
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>轴10:</value.first>
+										<value.first>轴10:SZ</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴1:</value.first>
+										<value.first>轴1:LX</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴2:</value.first>
+										<value.first>轴2:LY</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴3:</value.first>
+										<value.first>轴3:LZ</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴4:</value.first>
+										<value.first>轴4:LR</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴5:</value.first>
+										<value.first>轴5:CX</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴6:</value.first>
+										<value.first>轴6:CY</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴7:</value.first>
+										<value.first>轴7:CZ</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴8:</value.first>
+										<value.first>轴8:SX</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>轴9:</value.first>
+										<value.first>轴9:SY</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -162,13 +198,7 @@
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[2]  KV-SSC02    R52000  DM10400 [预留]</value.first>
-				<value.second>
-					<Expanded>0</Expanded>
-				</value.second>
-			</Child>
-			<Child>
-				<value.first>[3]  KV-XL202    R53000  DM10500 [预留]</value.first>
+				<value.first>[2]  KV-XL202    R52000  DM10400</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 					<Child>
@@ -176,7 +206,7 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>[1] MD-X1000/1500</value.first>
+								<value.first>[1] Modbus/RTU</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -198,37 +228,37 @@
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[4]  KV-B16T*    R55000  ----- [预留]</value.first>
+				<value.first>[3]  KV-SSC02    R54000  DM13500</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[5]  KV-B16T*    R56000  ----- [预留]</value.first>
+				<value.first>[4]  KV-B16T*    R55000  -----</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[6]  KV-B16T*    R57000  ----- [预留]</value.first>
+				<value.first>[5]  KV-B16T*    R56000  -----</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[7]  KV-B16X*    R58000  ----- [预留]</value.first>
+				<value.first>[6]  KV-B16T*    R57000  -----</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[8]  KV-B16X*    R59000  ----- [预留]</value.first>
+				<value.first>[7]  KV-B16X*    R58000  -----</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[9]  KV-B16X*    R60000  ----- [预留]</value.first>
+				<value.first>[8]  KV-B16X*    R59000  -----</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
