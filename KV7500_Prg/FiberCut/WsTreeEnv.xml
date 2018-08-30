@@ -10,9 +10,9 @@
 				<value.second>
 					<Expanded>1</Expanded>
 					<Child>
-						<value.first>EtherNet/IP   R30000  DM10000</value.first>
+						<value.first>EtherNet/IP   R30000  DM45000</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>[1]  CV-X100 Series</value.first>
 								<value.second>
@@ -24,9 +24,9 @@
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[1]  KV-XH16ML   R38000  DM10300</value.first>
+				<value.first>[1]  KV-XH16ML   R38000  DM45300</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>SV2 设定</value.first>
 						<value.second>
@@ -198,9 +198,9 @@
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[2]  KV-XL202    R52000  DM10400</value.first>
+				<value.first>[2]  KV-XL202    R52000  DM45400</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>PROTOCOL STUDIO</value.first>
 						<value.second>
@@ -228,7 +228,7 @@
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[3]  KV-SSC02    R54000  DM13500</value.first>
+				<value.first>[3]  KV-SSC02    R54000  DM48500</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
