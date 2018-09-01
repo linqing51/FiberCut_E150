@@ -26,7 +26,7 @@
 			<Child>
 				<value.first>[1]  KV-XH16ML   R38000  DM45300</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>SV2 设定</value.first>
 						<value.second>
@@ -84,7 +84,7 @@
 					<Child>
 						<value.first>同步控制设定</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>凸轮设定</value.first>
 								<value.second>
@@ -246,7 +246,7 @@
 				</value.second>
 			</Child>
 			<Child>
-				<value.first>[6]  KV-B16T*    R57000  -----</value.first>
+				<value.first>[6]  KV-B16T*    R57000  ----- [预留]</value.first>
 				<value.second>
 					<Expanded>0</Expanded>
 				</value.second>
