@@ -303,6 +303,20 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
+[Document21]
+DocumentPath=KV2_MotionA12 - 副本.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
@@ -429,7 +443,7 @@ OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType6=Schematic Print
 OutputName6=Schematic Prints
-OutputDocumentPath6=D:\工作文档\RD-2018-052(光纤切割)\FiberCut_E150\电装图\KV2_MotionA78.SchDoc
+OutputDocumentPath6=D:\工作文档\RD-2018-052(光纤切割)\FiberCut_E150\电装图\KV2_MotionA12.SchDoc
 OutputVariantName6=
 OutputEnabled6=1
 OutputDefault6=0

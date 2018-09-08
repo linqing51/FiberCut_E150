@@ -8,11 +8,11 @@
 			<Child>
 				<value.first>[0]  KV-7500</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>EtherNet/IP   R30000  DM45000</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>[1]  CV-X100 Series</value.first>
 								<value.second>
@@ -73,6 +73,18 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
+							<Child>
+								<value.first>6:定位激光偏转角位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>7:定位光纤位置</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
@@ -88,7 +100,7 @@
 							<Child>
 								<value.first>凸轮设定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>分辨率设定</value.first>
 										<value.second>
