@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>[0]  KV-7500</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>EtherNet/IP   R30000  DM45000</value.first>
 						<value.second>
@@ -38,49 +38,49 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>0:定位载板工作位置</value.first>
+								<value.first>0:定位载板工作位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>1:定位载板上料位置</value.first>
+								<value.first>1:定位载板上料位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>2:定位下相机工作位置</value.first>
+								<value.first>2:定位下相机工作位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>3:定位下相机安全位置</value.first>
+								<value.first>3:定位下相机安全位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>4:定位右相机工作位置</value.first>
+								<value.first>4:定位右相机工作位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>5:定位右相机安全位置</value.first>
+								<value.first>5:定位右相机安全位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>6:定位激光偏转角位置</value.first>
+								<value.first>6:定位激光偏转角位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>7:定位光纤位置</value.first>
+								<value.first>7:定位光纤位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -96,7 +96,7 @@
 					<Child>
 						<value.first>同步控制设定</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>凸轮设定</value.first>
 								<value.second>
