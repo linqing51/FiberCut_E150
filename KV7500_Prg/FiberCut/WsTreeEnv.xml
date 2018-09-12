@@ -80,7 +80,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>7:定位光纤位置-手动</value.first>
+								<value.first>7:定位分组位置-手动</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>8:定位光纤位置-手动</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -100,7 +106,7 @@
 							<Child>
 								<value.first>凸轮设定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>分辨率设定</value.first>
 										<value.second>
