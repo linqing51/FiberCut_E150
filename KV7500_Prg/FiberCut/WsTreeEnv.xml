@@ -218,7 +218,7 @@
 			<Child>
 				<value.first>[2]  KV-XL202    R52000  DM45400</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>PROTOCOL STUDIO</value.first>
 						<value.second>
