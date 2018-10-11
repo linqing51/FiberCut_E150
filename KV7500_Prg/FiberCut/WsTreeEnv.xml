@@ -102,7 +102,7 @@
 					<Child>
 						<value.first>同步控制设定</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>凸轮设定</value.first>
 								<value.second>
