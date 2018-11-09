@@ -14,14 +14,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>4</TabIndex>
+            <TabIndex>2</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -57,14 +57,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>5</TabIndex>
+            <TabIndex>3</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -100,14 +100,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>6</TabIndex>
+            <TabIndex>4</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -143,14 +143,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>7</TabIndex>
+            <TabIndex>5</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -186,14 +186,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>8</TabIndex>
+            <TabIndex>6</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -229,14 +229,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>9</TabIndex>
+            <TabIndex>7</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -272,14 +272,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>10</TabIndex>
+            <TabIndex>8</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -315,14 +315,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>11</TabIndex>
+            <TabIndex>9</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -358,14 +358,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>12</TabIndex>
+            <TabIndex>1</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -389,10 +389,10 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>UnitProgramStart(只读)</Name>
-      <SaveKey>[Ladder]UnitProgramStart(只读)</SaveKey>
+      <Name>Vision_Trigger</Name>
+      <SaveKey>[Ladder]Vision_Trigger</SaveKey>
       <DockingBarState>
-        <Key>Document@Ladder-291201104</Key>
+        <Key>Document@Ladder-271479648</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -401,7 +401,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1614</Width>
-            <Height>881</Height>
+            <Height>745</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
